@@ -3,7 +3,7 @@
 **PhD - Bioinformatician**
 
 📧 archerkuo9006@gmail.com  
-🔬 [ORCID: 0000-0002-6773-8179](https://orcid.org/0000-0002-6773-8179). 
+🔬 [ORCID: 0000-0002-6773-8179](https://orcid.org/0000-0002-6773-8179).  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/sck-379895117)
 
 ---
