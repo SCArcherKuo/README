@@ -8,6 +8,12 @@
 
 ---
 
+## Research Interests
+
+Bioinformatician with demonstrated strengths in cross-species single-cell omics and reproducible computational pipelines (*Genome Biology* 2023, 2024; *Briefings in Bioinformatics* 2026), now transitioning to systems neuroscience and brain–computer interface (BCI) research. Future interests include cross-subject generalization of neural decoders, joint analysis of unsupervised behavioral classifiers with high-channel electrophysiology, and computational tools for translational BCI workflows.
+
+---
+
 ## Research Experience
 
 ### Project Researcher (Fulfilling Taiwan's R&D Substitute Military Service)
@@ -25,10 +31,10 @@ Project objective:
 
 Key contributions:
 
-- Designed the overall user workflow with a primary focus on enabling users to easily obtain correct analytical results, and a secondary focus on reproducibility and comprehensive record-keeping.
-- Led project planning, requirement clarification, and user flow design.
-- Deployed and managed peripheral infrastructure, including firewalls, routers, switches, computation servers, and local storage servers; primarily responsible for backend development and the implementation of automated bioinformatics analysis pipelines.
-- Co-wrote the manuscript for publication.
+- Designed and engineered the overall user workflow, prioritising correctness of analytical results and reproducibility through comprehensive record-keeping.
+- Led project planning, requirement clarification, and user-flow design.
+- Architected and deployed the peripheral infrastructure (firewalls, routers, switches, computation servers, local storage servers), and built the backend with automated bioinformatics analysis pipelines.
+- Co-authored the manuscript for publication.
 
 **Advanced Technologies of Single-Cell Metabolomics Unveiling Cellular Metabolomic Heterogeneity for Biological and Biomedical Research**
 *Journal of Food and Drug Analysis, 2026* | Accepted on Jan 16, 2026
@@ -39,8 +45,8 @@ Project objective:
 
 Key contributions:
 
-- Collected and curated literature related to single-cell metabolomics, systematically comparing methodologies and findings across studies and organizing them into clear and structured summary tables.
-- Participated in manuscript writing and journal submission.
+- Synthesised the single-cell metabolomics literature, systematically comparing methodologies and findings across studies and organising them into structured summary tables.
+- Co-authored the manuscript and led journal submission logistics.
 
 **Microbial Volatile 3-Methyl-1-Butanol Enhances Stomatal Closure and Salt Stress Tolerance via Ethylene and Jasmonate Pathways in Arabidopsis**  
 *Physiologia Plantarum, 2025* | [DOI: 10.1111/ppl.70383](https://doi.org/10.1111/ppl.70383)
@@ -51,8 +57,8 @@ Project objective:
 
 Key contributions:
 
-- Provided consultation on transcriptomic and metabolomic data analysis.
-- Performed metabolomic data analysis, including quantification, identification of differentially accumulated metabolites, and enrichment analysis.
+- Advised the team on transcriptomic and metabolomic analytical strategies.
+- Modeled metabolomic profiles to identify differentially accumulated metabolites and enrichment patterns linking microbial signaling to host stress responses.
 
 ---
 
@@ -70,10 +76,9 @@ Project objective:
 
 Key contributions:
 
-- Conceived a method to integrate and visualize cell type information within single-cell datasets.
-- Performed single-cell RNA-seq data analysis.
-- Conducted lcmRNA-seq (laser capture microdissection RNA-seq) analysis.
-- Executed cross-species comparative analyses.
+- Hypothesised cross-species conservation of xylem differentiation programs and resolved it by integrating scRNA-seq with laser-capture microdissection RNA-seq (lcmRNA-seq), creating a comparative single-cell pipeline transferable beyond the original system.
+- Conceived a method to integrate and visualise cell-type information within single-cell datasets.
+- Designed and executed cross-species comparative analyses spanning multiple angiosperm species.
 
 **Sep 2018 - Jul 2019**  
 *Department of Plant Pathology and Microbiology, National Taiwan University*
@@ -86,7 +91,7 @@ Project objective:
 
 Key contributions:
 
-- Performed predictive modeling (GLM, LDA, SVM) to classify breast cancer subtypes based on exosomal miRNA profiles.
+- Modeled exosomal miRNA expression with GLM, LDA, and SVM classifiers to discriminate breast-cancer subtypes, demonstrating biomarker-grade predictive performance.
 
 ---
 
@@ -103,19 +108,27 @@ Department of Biochemical Science & Technology, National Taiwan University
 
 ---
 
+## Selected Projects
+
+- 🌡️ [**RemoteTemperatureSensor**](https://github.com/SCArcherKuo/RemoteTemperatureSensor) — ESP8266 + DS18B20 / DS3231 IoT temperature sensor with WiFi cloud logging (C++, Arduino, ThingSpeak). Demonstrates embedded-systems and hardware–software integration skills relevant to neural-recording instrumentation.
+- 🧬 [**ylclab-peptide-blast**](https://github.com/SCArcherKuo/ylclab-peptide-blast) — Reproducible Nextflow pipeline for peptide BLAST search.
+- 🌱 [**ylclab-carbonhydrate-analysis**](https://github.com/SCArcherKuo/ylclab-carbonhydrate-analysis) — Carbohydrate composition analysis pipeline (Python).
+
+---
+
 ## Key Skills
 
-**Programming Languages:** R (9+ years), Python (5+ years), Bash (5+ years), JavaScript (1+ year)
+**AI Agents:** Claude Code, GitHub Copilot
 
-**Developing with AI Agents:** GitHub Copilot (2+ years), Claude Code (1+ year)
+**Programming Languages:** R (10+ years), Python (5+ years), Bash (5+ years)
 
-**Databases:** MariaDB, PostgreSQL, MongoDB
+**Containerization:** Docker
 
-**Containerization:** Docker, Singularity
+**Version Control:** Git, GitHub
 
 **Workflow Management:** Snakemake, Nextflow
 
-**Version Control:** Git, GitHub
+**Databases:** MariaDB, PostgreSQL
 
 **Bioinformatics Tools:** NCBI tools, alignment and quantification pipelines, differential expression analysis tools, Cell Ranger, Seurat, and more
 
