@@ -110,6 +110,7 @@ Department of Biochemical Science & Technology, National Taiwan University
 
 ## Selected Projects
 
+- 🧪 [**metabolopan**](https://github.com/SCArcherKuo/metabolopan) — Cross-platform desktop GUI application (Rust) that takes raw MS-DIAL metabolomics output to KEGG over-representation analysis end-to-end: differential abundance testing (Student's / Welch's *t*-test, Brunner–Munzel) with FDR correction and volcano plots, followed by hypergeometric pathway/module enrichment with dot-plot export. Ships as a self-contained binary for macOS/Linux/Windows with cached PubChem/KEGG REST clients. Demonstrates systems-level programming (Rust) and end-to-end statistical-pipeline engineering transferable to high-channel neural data analysis.
 - 🌡️ [**RemoteTemperatureSensor**](https://github.com/SCArcherKuo/RemoteTemperatureSensor) — ESP8266 + DS18B20 / DS3231 IoT temperature sensor with WiFi cloud logging (C++, Arduino, ThingSpeak). Demonstrates embedded-systems and hardware–software integration skills relevant to neural-recording instrumentation.
 - 🧬 [**ylclab-peptide-blast**](https://github.com/SCArcherKuo/ylclab-peptide-blast) — Reproducible Nextflow pipeline for peptide BLAST search.
 - 🌱 [**ylclab-carbonhydrate-analysis**](https://github.com/SCArcherKuo/ylclab-carbonhydrate-analysis) — Carbohydrate composition analysis pipeline (Python).
@@ -120,7 +121,7 @@ Department of Biochemical Science & Technology, National Taiwan University
 
 **AI Agents:** Claude Code, GitHub Copilot
 
-**Programming Languages:** R (10+ years), Python (5+ years), Bash (5+ years)
+**Programming Languages:** R (10+ years), Python (5+ years), Bash (5+ years), Rust
 
 **Containerization:** Docker
 
