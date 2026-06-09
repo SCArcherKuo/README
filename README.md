@@ -95,19 +95,6 @@ Key contributions:
 
 ---
 
-## Education
-
-**Doctor of Philosophy** | 2018 - 2024  
-Genome and Systems Biology Degree Program, National Taiwan University
-
-**Master's Student** | 2017 - 2018  
-Department of Biochemical Science & Technology, National Taiwan University
-
-**Bachelor's Degree** | 2013 - 2017  
-Department of Biochemical Science & Technology, National Taiwan University
-
----
-
 ## Selected Projects
 
 - 🧪 [**metabolopan**](https://github.com/SCArcherKuo/metabolopan) — Cross-platform desktop GUI application (Rust) that takes raw MS-DIAL metabolomics output to KEGG over-representation analysis end-to-end: differential abundance testing (Student's / Welch's *t*-test, Brunner–Munzel) with FDR correction and volcano plots, followed by hypergeometric pathway/module enrichment with dot-plot export. Ships as a self-contained binary for macOS/Linux/Windows with cached PubChem/KEGG REST clients. Demonstrates systems-level programming (Rust) and end-to-end statistical-pipeline engineering transferable to high-channel neural data analysis.
@@ -136,6 +123,19 @@ Department of Biochemical Science & Technology, National Taiwan University
 **Backend:** Express
 
 **IoT:** Arduino (LCD, WiFi modules, sensor modules, and automated remote alerts via the internet)
+
+---
+
+## Education
+
+**Doctor of Philosophy** | 2018 - 2024  
+Genome and Systems Biology Degree Program, National Taiwan University
+
+**Master's Student** | 2017 - 2018  
+Department of Biochemical Science & Technology, National Taiwan University
+
+**Bachelor's Degree** | 2013 - 2017  
+Department of Biochemical Science & Technology, National Taiwan University
 
 ---
 
