@@ -3,7 +3,7 @@
 **PhD - Bioinformatician**
 
 📧 archerkuo9006@gmail.com  
-🔬 [ORCID: 0000-0002-6773-8179](https://orcid.org/0000-0002-6773-8179).  
+🔬 [ORCID: 0000-0002-6773-8179](https://orcid.org/0000-0002-6773-8179)  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/sck-379895117)
 
 ---
@@ -15,6 +15,22 @@ Bioinformatician with demonstrated strengths in cross-species single-cell omics 
 ---
 
 ## Research Experience
+
+### Postdoctoral Researcher
+**Feb 2026 - Present**
+
+*Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University*
+
+**(Ongoing) Web-Based Single-Cell Metabolomic Data Analysis Platform**
+
+Continuing the platform work described below under the same scope, now focused on driving it to publication.
+
+Key contributions:
+
+- Consolidated the analytical results and reproducibility records into publishable form.
+- Led manuscript preparation and submission logistics.
+
+---
 
 ### Project Researcher (Fulfilling Taiwan's R&D Substitute Military Service)
 **Aug 2024 - Jan 2026**
@@ -36,8 +52,8 @@ Key contributions:
 - Architected and deployed the peripheral infrastructure (firewalls, routers, switches, computation servers, local storage servers), and built the backend with automated bioinformatics analysis pipelines.
 - Co-authored the manuscript for publication.
 
-**Advanced Technologies of Single-Cell Metabolomics Unveiling Cellular Metabolomic Heterogeneity for Biological and Biomedical Research**
-*Journal of Food and Drug Analysis, 2026* | Accepted on Jan 16, 2026
+**Advanced Technologies of Single-Cell Metabolomics Unveiling Cellular Metabolic Heterogeneity for Biological and Biomedical Research**  
+First author | *Journal of Food and Drug Analysis, 2026* | [DOI: 10.38212/2224-6614.3590](https://doi.org/10.38212/2224-6614.3590)
 
 Project objective:
 
