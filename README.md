@@ -19,16 +19,19 @@ Bioinformatician with demonstrated strengths in cross-species single-cell omics 
 ### Postdoctoral Researcher
 **Feb 2026 - Present**
 
-*Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University*
+*Academy of Circular Economy, National Chung Hsing University*
 
 **(Ongoing) Web-Based Single-Cell Metabolomic Data Analysis Platform**
 
-Continuing the platform work described below under the same scope, now focused on driving it to publication.
+Project objective:
+
+- To apply the platform to real single-cell metabolomic datasets and bring the resulting work to publication.
 
 Key contributions:
 
-- Consolidated the analytical results and reproducibility records into publishable form.
-- Led manuscript preparation and submission logistics.
+- Applied the analysis platform to experimental single-cell metabolomic datasets, validating the analytical workflows against real biological data and refining them in response to the results.
+- Interpreted the resulting cell-type and metabolic heterogeneity patterns, translating platform output into biological findings.
+- Led manuscript preparation and submission logistics, consolidating analytical results and reproducibility records into publishable form.
 
 ---
 
